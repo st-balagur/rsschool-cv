@@ -15,6 +15,9 @@ I dropped out of the second year of the __BNTU__, specializing in "___Micro- and
 + High temperature soldering
 + Radio electronics
 + Good sense of humor (I hope)
----
+## __Code example__
+```
+I still don't know how to code.
+```
 
 
