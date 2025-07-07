@@ -19,5 +19,6 @@ I dropped out of the second year of the __BNTU__, specializing in "___Micro- and
 ```
 I still don't know how to code.
 ```
-
+## __Education__
++ __University__: _Belarusian National Technical University_, Micro- and Nanosystem Engineering (__incomplete__)
 
