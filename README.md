@@ -1,1 +1,1 @@
-# rsschool-cv
+https://st-balagur.github.io/rsschool-cv/cv
